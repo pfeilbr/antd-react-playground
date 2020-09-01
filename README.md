@@ -1,3 +1,18 @@
+# antd-react-playground
+
+learn [Ant Design (antd)](https://ant.design/) for [React](https://reactjs.org/)
+
+## Files and Directories
+
+* [`src/App.js`](src/App.js)
+* [`src/App.css`](src/App.css)
+
+## Resources
+
+* [Use in create-react-app - Ant Design](https://ant.design/docs/react/use-with-create-react-app)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
