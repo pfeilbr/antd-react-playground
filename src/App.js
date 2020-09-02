@@ -92,7 +92,7 @@ const FormDemo = () => {
 };
 
 const App = () => (
-  <div className="App">
+  <>
     <Layout>
       <Header>
         <Title>Button Demo</Title>
@@ -119,7 +119,7 @@ const App = () => (
         <FormDemo />
       </Content>
     </Layout>
-  </div>
+  </>
 );
 
 export default App;
